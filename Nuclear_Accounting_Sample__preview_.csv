@@ -1,0 +1,21 @@
+FacilityID,FacilityName,FacilityType,City,Material,Unit,Quantity_in,Quantity_out,Date,LicenseID,Handler,Notes,Difference,Flag
+54131,Central Storage Depot,Storage,Riyadh,Technetium-99m,mCi,277.6,222.1,2025-02-12,LIC-5426,Mr. Khalid,,55.5,OK
+63707,Eastern Industrial Co.,Industrial,Dammam,Plutonium-239,g,104.0,97.2,2025-09-11,LIC-3433,Ms. Noor,,6.8,OK
+76803,Kingdom Hospital Radiology,Hospital,Riyadh,Plutonium-239,g,22.0,0.0,2025-01-13,LIC-3747,Mr. Khalid,,22.0,CHECK
+83969,Riyadh Research Center,Research Institute,Riyadh,Cesium-137,Ci,13.336,9.839,2025-05-02,LIC-6393,Ms. Noor,,3.497,CHECK
+77121,Kingdom Hospital Radiology,Hospital,Riyadh,Iodine-131,mCi,655.8,713.9,2025-06-14,LIC-1775,Mr. Khalid,,-58.1,OK
+42606,University Nuclear Lab,University,Jeddah,Cobalt-60,Ci,1.024,1.083,2025-06-03,LIC-7873,Ms. Noor,,-0.059,OK
+49099,Central Storage Depot,Storage,Riyadh,Plutonium-239,g,49.5,71.2,2025-03-15,LIC-5887,Eng. Sara,,-21.7,CHECK
+77563,University Nuclear Lab,University,Jeddah,Uranium-235,kg,5.648,5.533,2025-01-21,LIC-9006,Dr. Ahmed,,0.115,OK
+62251,Central Storage Depot,Storage,Riyadh,Cesium-137,Ci,15.09,16.81,2025-08-02,LIC-6892,Eng. Sara,,-1.72,OK
+73335,Central Storage Depot,Storage,Riyadh,Iodine-131,mCi,198.4,80.4,2025-01-18,LIC-3454,Mr. Faisal,,118.0,CHECK
+16910,Medical Isotope Center,Hospital,Makkah,Cesium-137,Ci,6.355,2.147,2025-09-20,LIC-4840,Mr. Faisal,,4.208,CHECK
+97939,Medical Isotope Center,Hospital,Makkah,Cesium-137,Ci,10.958,22.239,2025-01-07,LIC-2484,Mr. Khalid,ANOMALY_POTENTIAL,-11.281,CHECK
+85450,Medical Isotope Center,Hospital,Makkah,Uranium-235,kg,7.085,19.511,2025-07-23,LIC-2059,Mr. Faisal,ANOMALY_POTENTIAL,-12.426,CHECK
+79163,Eastern Industrial Co.,Industrial,Dammam,Plutonium-239,g,114.7,86.8,2025-03-21,LIC-3693,Ms. Noor,,27.9,CHECK
+76842,University Nuclear Lab,University,Jeddah,Plutonium-239,g,82.8,57.8,2025-02-02,LIC-6592,Dr. Ahmed,,25.0,CHECK
+13748,Medical Isotope Center,Hospital,Makkah,Iodine-131,mCi,559.2,508.3,2025-01-02,LIC-6575,Mr. Khalid,,50.9,OK
+61005,Riyadh Research Center,Research Institute,Riyadh,Cesium-137,Ci,2.744,4.196,2025-02-15,LIC-2495,Dr. Ahmed,,-1.452,OK
+10854,Riyadh Research Center,Research Institute,Riyadh,Cobalt-60,Ci,5.35,4.43,2025-03-18,LIC-1698,Dr. Ahmed,,0.92,OK
+22688,Northern Isotope Facility,Industrial,Tabuk,Iodine-131,mCi,786.7,671.4,2025-05-24,LIC-6791,Ms. Noor,,115.3,CHECK
+96202,Central Storage Depot,Storage,Riyadh,Plutonium-239,g,170.1,188.1,2025-06-21,LIC-2930,Dr. Ahmed,,-18.0,OK
